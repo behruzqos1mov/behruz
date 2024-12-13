@@ -1,2 +1,3 @@
-# behruz
-mening birinchi loyiham
+a=int(input())
+b=int(input())
+print(a+b)
